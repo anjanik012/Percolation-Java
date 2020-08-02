@@ -2,6 +2,8 @@
 
 This is a solution of **percolation problem** using disjoint sets data structure.
 
+![demo](https://github.com/anjanik012/Percolation-Java/blob/master/demo.gif)
+
 The data structure used is _Weighted quick union with size constraint_. 
 
 It is based on the one of the assignments of [_Princeton University course on Coursera_.](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
